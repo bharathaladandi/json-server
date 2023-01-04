@@ -1,19 +1,18 @@
 {
-  "posts": [
+  "dogs": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "sam",
+      "age": "15",
+      "place": "Ban",
+      "gender": "female"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "vodafone",
+      "age": "3",
+      "place": "delhi",
+      "gender": "Male",
+      "id": 2
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
