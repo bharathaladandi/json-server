@@ -18,5 +18,17 @@
       "Description": " this iscars",
       "Price": "180000"
     }
+  ],
+  "wishlisted_cars": [
+    {
+      "id":2,
+      "brand": "Tata",
+      "type": "auto",
+      "year": "2020",
+      "kms": "3023",
+      "Description": " this iscars",
+      "Price": "180000"
+    }
   ]
+
 }
