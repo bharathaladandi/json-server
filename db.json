@@ -1,18 +1,22 @@
 {
-  "dogs": [
+  "cars": [
     {
-      "id": 1,
-      "name": "sam",
-      "age": "15",
-      "place": "Ban",
-      "gender": "female"
+      "id":1,
+      "brand": "Tata",
+      "manualauto": "auto",
+      "year": "2018",
+      "kmdriven": "4023",
+      "description": "cars",
+      "price": "100000"
     },
     {
-      "name": "vodafone",
-      "age": "3",
-      "place": "delhi",
-      "gender": "Male",
-      "id": 2
+      "id":2,
+      "brand": "Tata",
+      "manualauto": "auto",
+      "year": "2020",
+      "kmdriven": "3023",
+      "description": " this iscars",
+      "price": "180000"
     }
   ]
 }
